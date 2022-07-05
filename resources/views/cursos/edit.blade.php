@@ -8,7 +8,7 @@
     <form action="{{route('cursos.update',$curso)}}" method="post">
         @csrf
 
-        @method('put');
+        @method('put')
 
         <label>
             Nombre:
