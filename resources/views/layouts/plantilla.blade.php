@@ -7,9 +7,10 @@
     <title>@yield('title')</title>
     <!-- favicon -->
     <!-- style -->
+   
     
 </head>
-<body>
+<body >
     <!-- header -->
     <!-- nav -->
     <h1>@yield('content')</h1>
